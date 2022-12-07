@@ -1,0 +1,4 @@
+square = 5 ** 2
+
+print(square)
+# 25
