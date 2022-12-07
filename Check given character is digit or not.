@@ -1,0 +1,8 @@
+str1 = '342'
+print(str1.isdigit())
+
+str2 = 'python'
+print(str2.isdigit())
+
+# Output: True
+#         False
